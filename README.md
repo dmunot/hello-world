@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi humans
+
+I like Java Php
+I am a web developer
